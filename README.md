@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-## Data Science Salary Estimator
+## Data Scientist Salary Estimator
 
 ** https://github.com/c-hetan30/DS_Sal_pred
 
