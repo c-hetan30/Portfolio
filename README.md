@@ -5,3 +5,10 @@
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
 * Optimized Linear, Lasso, and Random Forest Regressors using RandomsearchCV to reach the best model. 
 * Built a client facing API using flask 
+
+
+## [Indian Premier League EDA](https://github.com/c-hetan30/IPL_Scraper)
+
+* Created webspyder using scrapy framework
+* Web Scraper extracts seasonwise or matchwise data from espncricinfo.com
+* EDA for seasons, teams and winning statistics
